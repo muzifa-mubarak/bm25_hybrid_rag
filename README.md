@@ -194,8 +194,7 @@ Future architectural enhancements for multi-tenant enterprise deployment:
 
 Built as a benchmark project in **Information Retrieval (IR)** and **LLM Systems Engineering**.
 
-* **GitHub**: [@your-username](https://github.com/)
-* **LinkedIn**: [Your Profile](https://linkedin.com/in/)
+* **GitHub**: [@muzifa-mubarak](https://github.com/muzifa-mubarak)
 * **Domain Focus**: Information Retrieval, Hybrid RAG, Vector Search, AI Systems Engineering
 
 ---
